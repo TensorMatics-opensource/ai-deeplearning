@@ -1,5 +1,18 @@
 # ai-deeplearning
 
+Tutotorials to implement deep learning in following scenarios:-
+1. Text Classification - please visit [here](https://docs.google.com/document/d/13rcF4ewux1ZxErKLHsZZALODRBqxuS7Bz0PmveMIhK0/edit?usp=sharing)
+2. Text NER - please visit [here](https://docs.google.com/document/d/1ql7SSu9jtAP6Hjly6Lazw0ohPPjy_sdpy9O6T0Or8cM/edit?usp=sharing)
+3. Text Sentiment Analysis - Coming Soon
+
+
+
+
+
+
+
+# Little Background on the project
+
 India is a vast country with a lot of problems in proportion with its size. The government’s official think tank, Niti Aayong, released a paper last year identifying five sectors for AI intervention in India – healthcare(opens in new window), agriculture, education, smart cities and smart mobility.
 
 "AI can help solve some of the most difficult social and environmental challenges in areas like healthcare, disaster prediction, environmental conservation, agriculture, or cultural preservation,” Google's AI head Jeff Dean.Click here to read more(https://timesofindia.indiatimes.com/business/international-business/the-next-big-frontier-using-ai-to-solve-social-issues/articleshow/70167752.cms)
